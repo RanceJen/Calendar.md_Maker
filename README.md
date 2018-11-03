@@ -15,7 +15,7 @@ It is convenient when writing a report or any thins
 ## build
 
 1. git clone https://github.com/BodomMoon/Calendar.md_Maker.git
-2. cd Calendar.md_Maker
+2. cd Calendar.md_Maker/
 3. go run MakeCalendar.go
 4. Enter date information
 5. get `"Month"_Calender.md`
@@ -33,3 +33,4 @@ It is convenient when writing a report or any thins
 
 #### <span id="11/03">11/03</span>
   * First Update
+  * Fix typo
