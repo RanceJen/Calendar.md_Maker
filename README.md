@@ -10,7 +10,7 @@ A little program that can generate a calendar like this
 >|`11/18`| 11/19 | 11/20 | 11/21 | 11/22 | 11/23 |`11/24`|       |
 >|`11/25`| 11/26 | 11/27 | 11/28 | 11/29 | 11/30 |       |       |
 
-It is convenient when writing a report or any thins
+It is convenient when writing a report
 
 ## build
 
